@@ -1,7 +1,7 @@
 import telebot
 import random
 
-TOKEN = '7656128081:AAHoL7Bzi7Hh41a5RhW56TaGj3nKZ2UD960' 
+TOKEN = '' 
 bot = telebot.TeleBot(TOKEN)
 
 riddles = [
