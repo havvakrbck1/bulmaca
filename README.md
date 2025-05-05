@@ -1,0 +1,1 @@
+bilmece botudur 
