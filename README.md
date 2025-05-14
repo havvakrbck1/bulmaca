@@ -1,27 +1,19 @@
+```markdown
+# Puzzle Game
 
+A collection of logic puzzles implemented in Python.
 
+## Features
+- Various types of puzzles
+- Timer for each puzzle
+- Scoreboard
 
-## 5️⃣ `bulmaca/README.md`
+## Technologies Used
+- Python 3
 
-markdown
-# 🧠 bulmaca
+## Installation
 
-Kelime ve mantık odaklı bulmaca oyunlarını içeren bir Python projesidir. Basit terminal tabanlı arayüzle oynanır.
-
-## 🧩 Oyun Tipleri
-- Anlamına göre kelime tahmini
-- Harf tamamlama
-- Doğru-yanlış mantıksal sorular
-
-## 🚀 Kullanılan Teknolojiler
-- Python
-
-## ⚙️ Kurulum
-
-bash
-git clone https://github.com/havvakrbck1/bulmaca.git
-cd bulmaca
-python bulmaca.py
-
-Soru: "Kuşların göç etme mevsimi hangisidir?"
-Cevap: Sonbahar
+```bash
+git clone https://github.com/havvakrbck1/puzzle-game.git
+cd puzzle-game
+python puzzle.py
